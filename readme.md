@@ -1,3 +1,5 @@
 hello！
 this is fffqwhy 😊
-![info](https://metrics.lecoq.io/fffqwhy?template=classic&base.metadata=0&habits=1&calendar=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&calendar=false&calendar.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
+<iframe src="http://182.92.118.41/"/>
+<div><img src="https://github-readme-stats.vercel.app/api?username=fffqwhy&show=reviews&theme=merko"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api/pin/?username=fffqwhy&repo=mini-react"/></div>
